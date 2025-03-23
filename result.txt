@@ -1,0 +1,8 @@
+plate_0.jpg: 66 S17 3 7 071 7
+plate_1.jpg: 5 9 L 2 7 6 0 7
+plate_2.jpg: 59 F2 16 2 3 6
+plate_3.jpg: 7 F1 685 67
+plate_4.jpg: 5 D 193862
+plate_5.jpg: 59 M2 772117
+plate_6.jpg: 8 5 F 7 2 5
+plate_7.jpg: I 2S 5 9
